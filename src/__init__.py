@@ -1,0 +1,1 @@
+# Image Artifact Detector Package
