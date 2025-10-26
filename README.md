@@ -42,6 +42,9 @@ python test_app.py
 3. **部署後檢查：**
    - 確認所有依賴正確安裝
    - 檢查錯誤日誌以排除問題
+  
+4. 部屬到 streamlit
+   - [https://imageprocesshw1-3djbfp8rh4skyexp2en74r.streamlit.app/](https://imageprocesshw1-3djbfp8rh4skyexp2en74r.streamlit.app/)
 
 ## 🎨 視覺化標記
 
@@ -116,4 +119,5 @@ python test_app.py
 - NumPy 1.24+
 - Streamlit 1.28+
 - Pillow 10.0+
+
 - SciPy 1.11+
